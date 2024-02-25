@@ -10,8 +10,8 @@ Lung cancer occurs in four main types: Adenocarcinoma (A), Small Cell Carcinoma 
 6. Visualise and assess performance of neural network on 2D images. Compare performance of neural network to other models including the primary clinical study. 
 7. If the 2D neural network is successful, we will write a new model to analyse 3D CT images. The strategy will be to use many 2D slices to produce a 3D rendering of the image. We would need to process the data to be able to generate a certain resolution of the 3D image. Then we would need to preprocess the data and train a CNN created in Pytorch as usual.  
 ## References: 
-[Dataset: Large-Scale CT and PET/CT Dataset for Lung Cancer Diagnosis (Lung-PET-CT-Dx)](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70224216#7022421689b3111c3e594e78910f8c8317813f35)
-[A paper analysing the same dataset with CNNs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10295141/)
-[A step-by-step guide to writing a CNN to diagnose lung cancer](https://www.geeksforgeeks.org/lung-cancer-detection-using-convolutional-neural-network-cnn/)
-[Data Augmentation to balance the dataset](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/)
-[Writing a 3D neural network for medical image classification](https://pythonprogramming.net/3d-convolutional-neural-network-machine-learning-tutorial/)
+[Dataset: Large-Scale CT and PET/CT Dataset for Lung Cancer Diagnosis (Lung-PET-CT-Dx)](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70224216#7022421689b3111c3e594e78910f8c8317813f35) \
+[A paper analysing the same dataset with CNNs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10295141/) \
+[A step-by-step guide to writing a CNN to diagnose lung cancer](https://www.geeksforgeeks.org/lung-cancer-detection-using-convolutional-neural-network-cnn/) \
+[Data Augmentation to balance the dataset](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/) \
+[Writing a 3D neural network for medical image classification](https://pythonprogramming.net/3d-convolutional-neural-network-machine-learning-tutorial/) \
