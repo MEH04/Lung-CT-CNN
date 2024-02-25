@@ -15,3 +15,10 @@ Lung cancer occurs in four main types: Adenocarcinoma (A), Small Cell Carcinoma 
 [A step-by-step guide to writing a CNN to diagnose lung cancer](https://www.geeksforgeeks.org/lung-cancer-detection-using-convolutional-neural-network-cnn/) \
 [Data Augmentation to balance the dataset](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/) \
 [Writing a 3D neural network for medical image classification](https://pythonprogramming.net/3d-convolutional-neural-network-machine-learning-tutorial/) \
+
+## Contributors
+Matthew Howarth
+Rick Lee
+Yubin Cheong
+Avik Gupta
+Jay Deslauriers: Project Advisor
