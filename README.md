@@ -21,4 +21,4 @@ Matthew Howarth\
 Rick Lee\
 Yubin Cheong\
 Avik Gupta\
-Jay Deslauriers: *Project Advisor*\
+Jay Deslauriers: *Project Advisor*
